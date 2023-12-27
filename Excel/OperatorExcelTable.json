@@ -11,8 +11,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "StrategyStart01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -26,8 +25,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_02",
       "TextLocalizeKey": "StrategyStart01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -41,8 +39,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "StrategyStart01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -56,8 +53,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
       "TextLocalizeKey": "StrategyStart01_04",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -71,8 +67,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_31",
       "TextLocalizeKey": "StrategyStart01_05",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -86,8 +81,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_11",
       "TextLocalizeKey": "StrategyVictory01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -101,8 +95,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_03",
       "TextLocalizeKey": "StrategyVictory01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -116,8 +109,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
       "TextLocalizeKey": "StrategyVictory01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -131,8 +123,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_11",
       "TextLocalizeKey": "StrategyVictory01_04",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -146,8 +137,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "StrategyVictory01_05",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -161,8 +151,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_28",
       "TextLocalizeKey": "StrategyDefeat01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -176,8 +165,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "StrategyDefeat01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -191,8 +179,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_10",
       "TextLocalizeKey": "StrategyDefeat01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -206,8 +193,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
       "TextLocalizeKey": "StrategyDefeat01_04",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -221,8 +207,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_06",
       "TextLocalizeKey": "StrategyDefeat01_05",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -236,8 +221,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_22",
       "TextLocalizeKey": "AdventureCombatStart_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -251,8 +235,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "AdventureCombatStart_01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -266,8 +249,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
       "TextLocalizeKey": "AdventureCombatStart_01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -281,8 +263,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_01",
       "TextLocalizeKey": "AdventureCombatStart_01_04",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -296,8 +277,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_14",
       "TextLocalizeKey": "AdventureCombatStart_01_05",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -311,8 +291,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_03",
       "TextLocalizeKey": "AdventureCombatVictory_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -326,8 +305,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
       "TextLocalizeKey": "AdventureCombatVictory_01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -341,8 +319,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_32",
       "TextLocalizeKey": "AdventureCombatVictory_01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -356,8 +333,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_11",
       "TextLocalizeKey": "AdventureCombatVictory_02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -371,8 +347,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_03",
       "TextLocalizeKey": "AdventureCombatVictory_02_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -386,8 +361,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_18",
       "TextLocalizeKey": "AdventureCombatDefeat_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -401,8 +375,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_15",
       "TextLocalizeKey": "AdventureCombatDefeat_01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -416,8 +389,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_18",
       "TextLocalizeKey": "AdventureCombatDefeat_01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -431,8 +403,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_30",
       "TextLocalizeKey": "AdventureCombatDefeat_02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -446,8 +417,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "AdventureCombatDefeat_02_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -461,8 +431,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_01",
       "TextLocalizeKey": "ArenaCombatStart_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -476,8 +445,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
       "TextLocalizeKey": "ArenaCombatStart_01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -491,8 +459,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_02",
       "TextLocalizeKey": "ArenaCombatStart_01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -506,8 +473,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
       "TextLocalizeKey": "ArenaCombatStart_01_04",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -521,8 +487,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
       "TextLocalizeKey": "ArenaCombatStart_01_05",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -536,8 +501,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
       "TextLocalizeKey": "ArenaCombatStart_01_06",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -551,8 +515,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_07",
       "TextLocalizeKey": "ArenaCombatVictory_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -566,8 +529,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
       "TextLocalizeKey": "ArenaCombatVictory_01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -581,8 +543,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_02",
       "TextLocalizeKey": "ArenaCombatVictory_02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -596,8 +557,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
       "TextLocalizeKey": "ArenaCombatVictory_02_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -611,8 +571,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
       "TextLocalizeKey": "ArenaCombatVictory_02_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -626,8 +585,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
       "TextLocalizeKey": "ArenaCombatDefeat_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -641,8 +599,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_04",
       "TextLocalizeKey": "ArenaCombatDefeat_01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -656,8 +613,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_05",
       "TextLocalizeKey": "ArenaCombatDefeat_01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -671,8 +627,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_08",
       "TextLocalizeKey": "ArenaCombatDefeat_01_04",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -686,8 +641,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_04",
       "TextLocalizeKey": "ArenaCombatDefeat_01_05",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -701,8 +655,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_16",
       "TextLocalizeKey": "WeekDungeonCombatStart_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -716,8 +669,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_16",
       "TextLocalizeKey": "WeekDungeonCombatStart_01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -731,8 +683,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_16",
       "TextLocalizeKey": "WeekDungeonCombatStart_01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -746,8 +697,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "WeekDungeonCombatStart_01_04",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -761,8 +711,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "WeekDungeonCombatStart_01_05",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -776,8 +725,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "WeekDungeonCombatStart_01_06",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -791,8 +739,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "WeekDungeonCombatStart_01_07",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -806,8 +753,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "WeekDungeonCombatStart_01_08",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -821,8 +767,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "WeekDungeonCombatStart_01_09",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -836,8 +781,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "WeekDungeonCombatStart_02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -851,8 +795,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_20",
       "TextLocalizeKey": "WeekDungeonCombatStart_02_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -866,8 +809,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
       "TextLocalizeKey": "WeekDungeonCombatStart_02_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -881,8 +823,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "WeekDungeonCombatStart_02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -896,8 +837,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_20",
       "TextLocalizeKey": "WeekDungeonCombatStart_02_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -911,8 +851,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
       "TextLocalizeKey": "WeekDungeonCombatStart_02_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -926,8 +865,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "WeekDungeonCombatStart_02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -941,8 +879,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_20",
       "TextLocalizeKey": "WeekDungeonCombatStart_02_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -956,8 +893,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
       "TextLocalizeKey": "WeekDungeonCombatStart_02_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -971,8 +907,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_15",
       "TextLocalizeKey": "WeekDungeonCombatStart_03_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -986,8 +921,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "WeekDungeonCombatStart_03_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1001,8 +935,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_31",
       "TextLocalizeKey": "WeekDungeonCombatStart_03_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1016,8 +949,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_15",
       "TextLocalizeKey": "WeekDungeonCombatStart_03_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1031,8 +963,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "WeekDungeonCombatStart_03_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1046,8 +977,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_31",
       "TextLocalizeKey": "WeekDungeonCombatStart_03_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1061,8 +991,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_15",
       "TextLocalizeKey": "WeekDungeonCombatStart_03_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1076,8 +1005,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "WeekDungeonCombatStart_03_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1091,8 +1019,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_31",
       "TextLocalizeKey": "WeekDungeonCombatStart_03_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1106,8 +1033,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_32",
       "TextLocalizeKey": "WeekDungeonCombatVictory_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1121,8 +1047,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
       "TextLocalizeKey": "WeekDungeonCombatVictory_01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1136,8 +1061,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "WeekDungeonCombatVictory_01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1151,8 +1075,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_20",
       "TextLocalizeKey": "WeekDungeonCombatVictory_02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1166,8 +1089,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
       "TextLocalizeKey": "WeekDungeonCombatVictory_03_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1181,8 +1103,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_17",
       "TextLocalizeKey": "WeekDungeonCombatDefeat_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1196,8 +1117,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_18",
       "TextLocalizeKey": "WeekDungeonCombatDefeat_01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1211,8 +1131,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_30",
       "TextLocalizeKey": "WeekDungeonCombatDefeat_01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1226,8 +1145,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "WeekDungeonCombatDefeat_02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1241,8 +1159,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_15",
       "TextLocalizeKey": "WeekDungeonCombatDefeat_03_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1256,8 +1173,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "Chesed_Wave01_Count01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1271,8 +1187,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "Chesed_Wave01_Count01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1286,8 +1201,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "Chesed_Wave01_Count02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1301,8 +1215,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "Chesed_Wave02_Count01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1316,8 +1229,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "Chesed_Wave02_Count01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1331,8 +1243,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "Chesed_Wave02_Count02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1346,8 +1257,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "Chesed_Wave02_Count02_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1361,8 +1271,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "AdventureCombatTutorial_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1376,8 +1285,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_22",
       "TextLocalizeKey": "AdventureCombatTutorial_01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1391,8 +1299,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
       "TextLocalizeKey": "AdventureCombatTutorial_02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1406,8 +1313,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_31",
       "TextLocalizeKey": "AdventureCombatTutorial_03_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1421,8 +1327,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "AdventureCombatTutorial_04_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1436,8 +1341,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_22",
       "TextLocalizeKey": "AdventureCombatTutorial_04_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1451,8 +1355,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_22",
       "TextLocalizeKey": "AdventureCombatTutorial_04_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1466,8 +1369,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "AdventureCombatTutorial_05_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1481,8 +1383,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "AdventureCombatTutorial_05_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1496,8 +1397,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "AdventureCombatTutorial_06_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1511,8 +1411,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "AdventureCombatTutorial_07_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1526,8 +1425,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_22",
       "TextLocalizeKey": "AdventureCombatTutorial_08_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1541,8 +1439,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "StrategyWarpUnitFromHideTile01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1556,8 +1453,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "TimeAttackDungeonCombatStart01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1571,8 +1467,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_31",
       "TextLocalizeKey": "TimeAttackDungeonCombatStart01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1586,8 +1481,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_01",
       "TextLocalizeKey": "TimeAttackDungeonCombatStart01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1601,8 +1495,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_03",
       "TextLocalizeKey": "TimeAttackDungeonCombatVictory01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1616,8 +1509,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
       "TextLocalizeKey": "TimeAttackDungeonCombatVictory01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1631,8 +1523,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "TimeAttackDungeonCombatVictory01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1646,8 +1537,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_29",
       "TextLocalizeKey": "TimeAttackDungeonCombatDefeat01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1661,8 +1551,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_10",
       "TextLocalizeKey": "TimeAttackDungeonCombatDefeat01_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1676,8 +1565,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_18",
       "TextLocalizeKey": "TimeAttackDungeonCombatDefeat01_03",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1691,8 +1579,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "HOD_Start_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1706,8 +1593,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "HOD_TemporaryTower_CrowdControlGauge_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1721,8 +1607,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "HOD_TemporaryTower_CrowdControlGauge_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1736,8 +1621,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
       "TextLocalizeKey": "HOD_CrowdControlGauge_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1751,8 +1635,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_02",
       "TextLocalizeKey": "806EventCombatInfo_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1766,8 +1649,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_01",
       "TextLocalizeKey": "806EventCombatInfo_02_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1781,8 +1663,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "806EventCombatInfo_03_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1796,8 +1677,7 @@
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "815EventConquestInfo_01_01",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -1811,13 +1691,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Rin_02",
       "TextLocalizeKey": "821_WorldRaidBossSpawn_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Rin/Rin_R52_1_WorldRaid_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Rin/Rin_R52_1_WorldRaid_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82101,
@@ -1830,13 +1707,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0013_05",
       "TextLocalizeKey": "821_WorldRaidBossSpawn_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0013/NP0013_R52_1_WorldRaid_3"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0013/NP0013_R52_1_WorldRaid_3"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82102,
@@ -1849,13 +1723,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Momoka_22",
       "TextLocalizeKey": "821_WorldRaidBossSpawn_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Momoka/Momoka_R52_1_WorldRaid_3"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Momoka/Momoka_R52_1_WorldRaid_3"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82110,
@@ -1868,13 +1739,10 @@
       "OperatorOutputPriority": 3,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Rin_42",
       "TextLocalizeKey": "821_WorldRaidScenarioBattle_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Rin/Rin_R52_1_WorldRaid_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Rin/Rin_R52_1_WorldRaid_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82111,
@@ -1887,13 +1755,10 @@
       "OperatorOutputPriority": 3,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0013_05",
       "TextLocalizeKey": "821_WorldRaidScenarioBattle_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0013/NP0013_R52_1_WorldRaid_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0013/NP0013_R52_1_WorldRaid_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82112,
@@ -1906,13 +1771,10 @@
       "OperatorOutputPriority": 3,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Momoka_05",
       "TextLocalizeKey": "821_WorldRaidScenarioBattle_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Momoka/Momoka_R52_1_WorldRaid_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Momoka/Momoka_R52_1_WorldRaid_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82120,
@@ -1925,13 +1787,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Rin_05",
       "TextLocalizeKey": "821_WorldRaidBossKill_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Rin/Rin_R52_1_WorldRaid_3"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Rin/Rin_R52_1_WorldRaid_3"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82121,
@@ -1944,13 +1803,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0013_04",
       "TextLocalizeKey": "821_WorldRaidBossKill_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0013/NP0013_R52_1_WorldRaid_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0013/NP0013_R52_1_WorldRaid_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82122,
@@ -1963,13 +1819,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Momoka_46",
       "TextLocalizeKey": "821_WorldRaidBossKill_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Momoka/Momoka_R52_1_WorldRaid_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Momoka/Momoka_R52_1_WorldRaid_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82130,
@@ -1982,13 +1835,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Rin_03",
       "TextLocalizeKey": "821_WorldRaidFinalClear",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Rin/Rin_R52_1_WorldRaid_4"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Rin/Rin_R52_1_WorldRaid_4"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82201,
@@ -2001,13 +1851,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_12",
       "TextLocalizeKey": "822_ConquestMapOpen_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_ZoneOpen_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_ZoneOpen_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82202,
@@ -2020,13 +1867,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_02",
       "TextLocalizeKey": "822_ConquestMapOpen_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_ZoneOpen_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_ZoneOpen_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82203,
@@ -2039,13 +1883,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_05",
       "TextLocalizeKey": "822_ConquestMapOpen_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_ZoneOpen_3"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_ZoneOpen_3"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82211,
@@ -2058,13 +1899,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_01",
       "TextLocalizeKey": "822_ConquestTileLevelup_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileUpgrade_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileUpgrade_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82212,
@@ -2077,13 +1915,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0098_02",
       "TextLocalizeKey": "822_ConquestTileLevelup_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileUpgrade_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileUpgrade_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82213,
@@ -2096,13 +1931,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0099_03",
       "TextLocalizeKey": "822_ConquestTileLevelup_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileUpgrade_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileUpgrade_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82214,
@@ -2115,13 +1947,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_10",
       "TextLocalizeKey": "822_ConquestTileConquest_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileOccupy_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileOccupy_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82215,
@@ -2134,13 +1963,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0098_09",
       "TextLocalizeKey": "822_ConquestTileConquest_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileOccupy_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileOccupy_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82216,
@@ -2153,13 +1979,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0099_10",
       "TextLocalizeKey": "822_ConquestTileConquest_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileOccupy_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileOccupy_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82217,
@@ -2172,13 +1995,10 @@
       "OperatorOutputPriority": 3,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_01",
       "TextLocalizeKey": "822_ConquestBossTileConquest_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileOccupy_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileOccupy_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82218,
@@ -2191,13 +2011,10 @@
       "OperatorOutputPriority": 3,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0098_10",
       "TextLocalizeKey": "822_ConquestBossTileConquest_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileOccupy_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileOccupy_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82219,
@@ -2210,13 +2027,10 @@
       "OperatorOutputPriority": 3,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0099_11",
       "TextLocalizeKey": "822_ConquestBossTileConquest_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileOccupy_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileOccupy_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82220,
@@ -2229,13 +2043,10 @@
       "OperatorOutputPriority": 3,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_02",
       "TextLocalizeKey": "822_ConquestTileComplete_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileOccupy_3"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileOccupy_3"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82221,
@@ -2248,13 +2059,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_99",
       "TextLocalizeKey": "822_ConquestTileManageReward_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileReward"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileReward"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82222,
@@ -2267,13 +2075,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0098_02",
       "TextLocalizeKey": "822_ConquestTileManageReward_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileReward"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileReward"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82223,
@@ -2286,13 +2091,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0099_03",
       "TextLocalizeKey": "822_ConquestTileManageReward_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileReward"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileReward"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82224,
@@ -2305,13 +2107,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_13",
       "TextLocalizeKey": "822_ConquestErosion_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileErosion_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileErosion_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82225,
@@ -2324,13 +2123,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0098_04",
       "TextLocalizeKey": "822_ConquestErosion_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileErosion_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileErosion_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82226,
@@ -2343,13 +2139,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0099_10",
       "TextLocalizeKey": "822_ConquestErosion_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileErosion_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileErosion_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82227,
@@ -2362,13 +2155,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_99",
       "TextLocalizeKey": "822_ConquestErosionRemove_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileErosion_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_1_TileErosion_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82228,
@@ -2381,13 +2171,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0098_03",
       "TextLocalizeKey": "822_ConquestErosionRemove_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileErosion_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0098/NP0098_R53_1_TileErosion_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82229,
@@ -2400,13 +2187,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0099_11",
       "TextLocalizeKey": "822_ConquestErosionRemove_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileErosion_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0099/NP0099_R53_1_TileErosion_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82230,
@@ -2419,8 +2203,7 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "822_ConquestChallenge_05",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -2434,8 +2217,7 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "822_ConquestChallenge_05_02",
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": [],
+      "VoiceId": [],
       "OperatorWaitQueue": false
     },
     {
@@ -2449,13 +2231,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "823_FrenapatisCinematicPhase1_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82302,
@@ -2468,13 +2247,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_05",
       "TextLocalizeKey": "823_FrenapatisCinematicPhase1_04",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0035/NP0035_R53_MainScenario_Battle_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0035/NP0035_R53_MainScenario_Battle_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82303,
@@ -2487,13 +2263,10 @@
       "OperatorOutputPriority": 3,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_05",
       "TextLocalizeKey": "823_FrenapatisCinematicPhase1_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_3"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_3"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82304,
@@ -2506,13 +2279,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_05",
       "TextLocalizeKey": "823_FrenapatisCinematicPhase1_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_4"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_4"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82305,
@@ -2525,13 +2295,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_22",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill1Ready_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_5"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_5"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82306,
@@ -2544,13 +2311,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_13",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill1_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_6"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_6"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82307,
@@ -2563,13 +2327,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_10",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill1_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0035/NP0035_R53_MainScenario_Battle_7"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0035/NP0035_R53_MainScenario_Battle_7"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82308,
@@ -2582,13 +2343,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill1_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_8"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_8"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82309,
@@ -2601,13 +2359,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
       "TextLocalizeKey": "823_FrenapatisCinematicPhase2_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_9"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_9"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82310,
@@ -2620,13 +2375,10 @@
       "OperatorOutputPriority": 3,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_05",
       "TextLocalizeKey": "823_FrenapatisCinematicPhase2_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_10"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_10"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82311,
@@ -2639,13 +2391,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_22",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill2_04",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_11"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_11"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82312,
@@ -2658,13 +2407,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_22",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill2_05",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_12"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_12"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82313,
@@ -2677,13 +2423,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill2_06",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_13"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_13"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82314,
@@ -2696,13 +2439,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_02",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill2_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_14"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_14"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82315,
@@ -2715,13 +2455,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_11",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill2_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_15"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_15"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82316,
@@ -2734,13 +2471,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0097_12",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill2_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_16"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0097/NP0097_R53_MainScenario_Battle_16"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82317,
@@ -2753,13 +2487,10 @@
       "OperatorOutputPriority": 2,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_16",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill2_07",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_17"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_17"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82318,
@@ -2772,13 +2503,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
       "TextLocalizeKey": "823_FrenapatisCinematicSkill3_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_18"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_MainScenario_Battle_18"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82350,
@@ -2791,13 +2519,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_01",
       "TextLocalizeKey": "823_WorldRaidEnter_01_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_WorldRaidMap_in_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_WorldRaidMap_in_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82351,
@@ -2810,13 +2535,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "823_WorldRaidEnter_01_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_WorldRaidMap_in_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_WorldRaidMap_in_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82352,
@@ -2829,13 +2551,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "823_EN0002Open",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_WorldRaidMap_open_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_WorldRaidMap_open_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82353,
@@ -2848,13 +2567,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "823_EN0004Open",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_WorldRaidMap_open_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_WorldRaidMap_open_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82354,
@@ -2867,13 +2583,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_19",
       "TextLocalizeKey": "823_EN0002Enter_01_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0035/NP0035_R53_2_Battle_in_1_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0035/NP0035_R53_2_Battle_in_1_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82355,
@@ -2886,13 +2599,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_16",
       "TextLocalizeKey": "823_EN0002Enter_01_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_in_1_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_in_1_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82356,
@@ -2905,13 +2615,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_20",
       "TextLocalizeKey": "823_EN0002Enter_01_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0035/NP0035_R53_2_Battle_in_2_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0035/NP0035_R53_2_Battle_in_2_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82357,
@@ -2924,13 +2631,10 @@
       "OperatorOutputPriority": 4,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "823_EN0002Enter_01_04",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_in_2_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_in_2_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82358,
@@ -2943,13 +2647,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
       "TextLocalizeKey": "823_EN0002Skill01_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Warning_1_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Warning_1_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82359,
@@ -2962,13 +2663,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
       "TextLocalizeKey": "823_EN0002Skill01_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Warning_1_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Warning_1_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82360,
@@ -2981,13 +2679,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
       "TextLocalizeKey": "823_EN0002Skill01_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Warning_1_3"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Warning_1_3"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82361,
@@ -3000,13 +2695,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
       "TextLocalizeKey": "823_EN0002Skill02_01_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Warning_2_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Warning_2_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82362,
@@ -3019,13 +2711,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
       "TextLocalizeKey": "823_EN0002Skill02_01_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Warning_2_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Warning_2_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82363,
@@ -3038,13 +2727,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_03",
       "TextLocalizeKey": "823_EN0002Phase2_01_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_NP0035/NP0035_R53_2_Battle_Phase2_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_NP0035/NP0035_R53_2_Battle_Phase2_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82364,
@@ -3057,13 +2743,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
       "TextLocalizeKey": "823_EN0002Phase2_01_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Phase2_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Phase2_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82365,
@@ -3076,13 +2759,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "823_EN0002FeverTime_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_EventShop_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_EventShop_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82366,
@@ -3095,13 +2775,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "823_EN0002Victory_01_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Win_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Win_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82367,
@@ -3114,13 +2791,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
       "TextLocalizeKey": "823_EN0002Victory_01_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Win_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Battle_Win_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82368,
@@ -3133,13 +2807,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "823_EN0002Defeat_01_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Defeat_1"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Defeat_1"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82369,
@@ -3152,13 +2823,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
       "TextLocalizeKey": "823_EN0002Defeat_01_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Defeat_2"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_Arona/Arona_R53_2_Defeat_2"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82800,
@@ -3171,13 +2839,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0204_01",
       "TextLocalizeKey": "828_MinigameTBG_ThemaEnter_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0204/CH0204_Minigame_Start"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0204/CH0204_Minigame_Start"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82801,
@@ -3190,13 +2855,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0209_03",
       "TextLocalizeKey": "828_MinigameTBG_ThemaEnter_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0209/CH0209_Minigame_Start"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0209/CH0209_Minigame_Start"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82802,
@@ -3209,13 +2871,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0210_02",
       "TextLocalizeKey": "828_MinigameTBG_ThemaEnter_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0210/CH0210_Minigame_Start"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0210/CH0210_Minigame_Start"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82803,
@@ -3228,13 +2887,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0205_19",
       "TextLocalizeKey": "828_MinigameTBG_ThemaEnter_04",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0205/CH0205_Minigame_Start"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0205/CH0205_Minigame_Start"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82810,
@@ -3247,13 +2903,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0204_01",
       "TextLocalizeKey": "828_MinigameTBG_ThemaComeback_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0204/CH0204_Minigame_Map"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0204/CH0204_Minigame_Map"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82811,
@@ -3266,13 +2919,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0209_02",
       "TextLocalizeKey": "828_MinigameTBG_ThemaComeback_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0209/CH0209_Minigame_Map"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0209/CH0209_Minigame_Map"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82812,
@@ -3285,13 +2935,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0210_12",
       "TextLocalizeKey": "828_MinigameTBG_ThemaComeback_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0210/CH0210_Minigame_Map"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0210/CH0210_Minigame_Map"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82813,
@@ -3304,13 +2951,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0205_05",
       "TextLocalizeKey": "828_MinigameTBG_ThemaComeback_04",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0205/CH0205_Minigame_Map"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0205/CH0205_Minigame_Map"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82820,
@@ -3323,13 +2967,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0204_16",
       "TextLocalizeKey": "828_MinigameTBG_Revive_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0204/CH0204_Minigame_Start_Re"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0204/CH0204_Minigame_Start_Re"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82821,
@@ -3342,13 +2983,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0209_01",
       "TextLocalizeKey": "828_MinigameTBG_Revive_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0209/CH0209_Minigame_Start_Re"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0209/CH0209_Minigame_Start_Re"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82822,
@@ -3361,13 +2999,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0210_03",
       "TextLocalizeKey": "828_MinigameTBG_Revive_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0210/CH0210_Minigame_Start_Re"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0210/CH0210_Minigame_Start_Re"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82823,
@@ -3380,13 +3015,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0205_08",
       "TextLocalizeKey": "828_MinigameTBG_Revive_04",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0205/CH0205_Minigame_Start_Re"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0205/CH0205_Minigame_Start_Re"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82830,
@@ -3399,13 +3031,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0204_09",
       "TextLocalizeKey": "828_MinigameTBG_ItemUse_01",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0204/CH0204_Minigame_Start_Item"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0204/CH0204_Minigame_Start_Item"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82831,
@@ -3418,13 +3047,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0209_02",
       "TextLocalizeKey": "828_MinigameTBG_ItemUse_02",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0209/CH0209_Minigame_Start_Item"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0209/CH0209_Minigame_Start_Item"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82832,
@@ -3437,13 +3063,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0210_08",
       "TextLocalizeKey": "828_MinigameTBG_ItemUse_03",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0210/CH0210_Minigame_Start_Item"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0210/CH0210_Minigame_Start_Item"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     },
     {
       "UniqueId": 82833,
@@ -3456,13 +3079,10 @@
       "OperatorOutputPriority": 1,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_CH0205_18",
       "TextLocalizeKey": "828_MinigameTBG_ItemUse_04",
-      "VoiceClipsKr": [
-        "Audio/VOC_JP/JP_CH0205/CH0205_Minigame_Start_Item"
+      "VoiceId": [
+        1557564077
       ],
-      "VoiceClipsJp": [
-        "Audio/VOC_JP/JP_CH0205/CH0205_Minigame_Start_Item"
-      ],
-      "OperatorWaitQueue": false
+      "OperatorWaitQueue": true
     }
   ]
 }
